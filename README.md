@@ -17,6 +17,10 @@ Soy un **Data Scientist** con formación en **Administración de Empresas**, esp
 -**Soft skills**: Comunicación acertiva, trabajo en equipo. 
 ---
 
+## 🌱 Aprendizaje Continuo  
+Actualmente profundizando en **Google Cloud Platform (GCP)** y técnicas avanzadas de **Machine Learning**.
+
+---
 ## 🚀 Proyectos Destacados  
 
 ### Sistema de Recomendación de Películas  
@@ -30,11 +34,6 @@ Lidere un proyecto para crear modelos para estimar costos de viajes usando  y an
 ### Análisis del Sector de Servicios de Comunicación en Argentina  
 Análisis del acceso a internet en Argentina, con visualización de datos en un dashboard interactivo.  
 *Tecnologías*: pandas, GeoPandas, Folium, Power BI.
-
----
-
-## 🌱 Aprendizaje Continuo  
-Actualmente profundizando en **Google Cloud Platform (GCP)** y técnicas avanzadas de **Machine Learning**.
 
 ---
 
