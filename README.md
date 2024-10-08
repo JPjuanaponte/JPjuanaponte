@@ -1,6 +1,9 @@
+<ctr>
+  
 # Hola a todos! Mi nombre es Juan Aponte 
 **Disfruntanddo de la faseta de aprendizaje de Data Scientist | Data & Analytics**
 
+</ctr>
 
 ---
 
@@ -50,12 +53,8 @@ Celular: +573202163272
           <img width="110" src="https://raw.githubusercontent.com/UrbanGreenSolutions/BlueTrips/main/Assets/IMG-Perfil/01.png"/>
         </a>
         <a href="https://github.com/JPjuanaponte" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Juan Aponte </br><small>Cloud Arquitect / PO</small></h4>
-        </a>
-        <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/JPjuanaponte" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
+          <h4 style="margin-top: 1rem;">Juan Aponte </br>
+              </a>
         <a href="https://www.linkedin.com/in/juan-pablo-aponte-murcia-36603627a/" target="_blank">
           <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
