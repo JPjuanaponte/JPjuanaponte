@@ -1,11 +1,6 @@
-## Hi there 👋
-
-
--->
 # Hola a todos! Mi nombre es Juan Aponte 
 **Disfruntanddo de la faseta de aprendizaje de Data Scientist | Data & Analytics**
 
-📧 [juanpaapon@gmail.com](mailto:juanpaapon@gmail.com)  
 
 ---
 
@@ -19,7 +14,7 @@ Soy un **Data Scientist** con formación en **Administración de Empresas**, esp
 - **Visualización**: Power BI, matplotlib, seaborn. 
 - **Cloud**: Google Cloud Platform (GCP)  
 - **Otros**: ETL, Machine Learning, Storytelling, Metodologías Ágiles, GIT y cada día conociendo una una nueva herramienta.  
-
+-**Soft skills**: Comunicación acertiva, trabajo en equipo. 
 ---
 
 ## 🚀 Proyectos Destacados  
@@ -37,20 +32,6 @@ Análisis del acceso a internet en Argentina, con visualización de datos en un 
 *Tecnologías*: pandas, GeoPandas, Folium, Power BI.
 
 ---
-
-## 💼 Experiencia Profesional  
-
-### Asistente de Enseñanza en Data Science  
-Henry Bootcamp | Febrero 2022 - Actualidad  
-- Coordinación de estudiantes y asistencia en resolución de ejercicios.  
-- Propuesta de mejoras para los procesos del Bootcamp.
-
-### Gerente de Puntos de Venta y Servicio  
-Subway - Franquicia Inversiones DDD S.A.S. | Agosto 2019 - Marzo 2020  
-- Manejo de inventarios y capacitación de personal en múltiples puntos de venta.
-
----
-
 
 ## 🌱 Aprendizaje Continuo  
 Actualmente profundizando en **Google Cloud Platform (GCP)** y técnicas avanzadas de **Machine Learning**.
