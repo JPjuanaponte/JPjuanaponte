@@ -1,58 +1,40 @@
 ## Hi there 👋
 
-<!--
-**JPjuanaponte/JPjuanaponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# Juan Pablo Aponte Murcia  
-**Data Scientist | Data & Analytics**
+# Hola a todos! Mi nombre es Juan Aponte 
+**Disfruntanddo de la faseta de aprendizaje de Data Scientist | Data & Analytics**
 
-📍 Bogotá, Colombia  
 📧 [juanpaapon@gmail.com](mailto:juanpaapon@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/tuusuario)
 
 ---
 
 ## 👨‍💻 Sobre Mí  
-Soy un **Data Scientist** con formación en **Administración de Empresas**, especializado en **gestión de ventas y procesos de servicio**. Mi objetivo es aplicar mis habilidades analíticas para optimizar procesos a través de **Data Science**. Poseo experiencia en **Python, SQL, ETL, Power BI, Machine Learning** y **Google Cloud Platform (GCP)**.
+Soy un **Data Scientist** con formación en **Administración de Empresas**, especializado en **gestión de ventas y procesos de servicio**. Mi objetivo es aplicar mis habilidades analíticas para optimizar procesos a través de **Data Science**. Poseo conocimientos en **Python, SQL, ETL, Power BI, Machine Learning** y **Google Cloud Platform (GCP)**.). Busco aplicar mi formación en Data Science para generar soluciones basadas en datos y optimizar procesos dentro del ámbito IT.
 
 ---
 
 ## 🛠️ Tecnologías y Habilidades  
-- **Lenguajes de Programación**: Python (NumPy, pandas), SQL  
-- **Visualización**: Power BI, matplotlib, seaborn  
+- **Lenguajes de Programación**: Python, SQL. 
+- **Visualización**: Power BI, matplotlib, seaborn. 
 - **Cloud**: Google Cloud Platform (GCP)  
-- **Otros**: ETL, Machine Learning, Storytelling, Metodologías Ágiles  
+- **Otros**: ETL, Machine Learning, Storytelling, Metodologías Ágiles, GIT y cada día conociendo una una nueva herramienta.  
 
 ---
 
 ## 🚀 Proyectos Destacados  
 
-### 1. Sistema de Recomendación de Películas  
+### Sistema de Recomendación de Películas  
 Desarrollé un sistema de recomendación usando **FastAPI** y **Machine Learning**, optimizando la API para consultas personalizadas de actores, directores y películas.  
-*Tecnologías*: Python, FastAPI, Machine Learning
+*Tecnologías*: Python, FastAPI, Machine Learning, render. 
 
-### 2. Predicción de Costos de Viajes  
-Modelo para estimar costos de viajes usando **regresión lineal** y **Random Forest**. Implementé un pipeline ETL y generé visualizaciones con Power BI.  
-*Tecnologías*: Python, pandas, scikit-learn, Power BI, SQL
+### Predicción de Costos de Viajes - ROI para un proyecto de movilidad en la ciudad de nueva York. 
+Lidere un proyecto para crear modelos para estimar costos de viajes usando  y análisis de ROI, a través de modelos de ML. 
+*Tecnologías*: Python, pandas, scikit-learn, Power BI, SQL, GCP.
 
-### 3. Optimización de Inventarios  
-Modelo de predicción para optimizar inventarios en puntos de venta de alimentos, reduciendo el desperdicio mediante análisis de ventas históricas.  
-*Tecnologías*: Python, pandas, scikit-learn, GCP
-
-### 4. Análisis del Sector de Servicios de Comunicación en Argentina  
+### Análisis del Sector de Servicios de Comunicación en Argentina  
 Análisis del acceso a internet en Argentina, con visualización de datos en un dashboard interactivo.  
-*Tecnologías*: pandas, GeoPandas, Folium, Power BI
+*Tecnologías*: pandas, GeoPandas, Folium, Power BI.
 
 ---
 
@@ -69,12 +51,6 @@ Subway - Franquicia Inversiones DDD S.A.S. | Agosto 2019 - Marzo 2020
 
 ---
 
-## 🎓 Educación  
-**Data Science Bootcamp** | Henry Bootcamp | 2022  
-**Técnico Profesional en Administración de Empresas** | INSUTEC | 2009  
-**Estudiante de Finanzas y Negocios Internacionales** | UNICERVANTES | 2022 - Actualidad
-
----
 
 ## 🌱 Aprendizaje Continuo  
 Actualmente profundizando en **Google Cloud Platform (GCP)** y técnicas avanzadas de **Machine Learning**.
@@ -82,4 +58,4 @@ Actualmente profundizando en **Google Cloud Platform (GCP)** y técnicas avanzad
 ---
 
 ## 📫 Contacto  
-Puedes contactarme en **[juanpaapon@gmail.com](mailto:juanpaapon@gmail.com)** o a través de [LinkedIn](https://www.linkedin.com).
+Puedes contactarme en **[juanpaapon@gmail.com](mailto:juanpaapon@gmail.com)** o a través de [LinkedIn](https://www.linkedin.com/in/juan-pablo-aponte-murcia-36603627a/).
