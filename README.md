@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 Sobre Mí  
-Soy un **Data Scientist** con formación en **Administración de Empresas**, especializado en **gestión de ventas y procesos de servicio**. Mi objetivo es aplicar mis habilidades analíticas para optimizar procesos a través de **Data Science**. Poseo conocimientos en **Python, SQL, ETL, Power BI, Machine Learning** y **Google Cloud Platform (GCP)**.). Busco aplicar mi formación en Data Science para generar soluciones basadas en datos y optimizar procesos dentro del ámbito IT.
+Aqui **Data Scientist** con formación en **Administración de Empresas**, especializado en **gestión de ventas y procesos de servicio**. Mi objetivo es aplicar mis habilidades analíticas para optimizar procesos a través de **Data Science**. Poseo conocimientos en **Python, SQL, ETL, Power BI, Machine Learning** y **Google Cloud Platform (GCP)**.). Busco aplicar mi formación en Data Science para generar soluciones basadas en datos y optimizar procesos dentro del ámbito IT.
 
 ---
 
