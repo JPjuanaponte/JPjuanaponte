@@ -1,7 +1,7 @@
 <ctr>
   
 # Hola a todos! Mi nombre es Juan Aponte 
-**Apreniendo bnuevas habilidades en mi camino para ser Data Scientist | Data & Analytics**
+**Apreniendo nuevas habilidades, en mi camino para ser Data Scientist | Data & Analytics**
 
 </ctr>
 
