@@ -1,7 +1,7 @@
 <ctr>
   
 # Hola a todos! Mi nombre es Juan Aponte 
-**Disfruntanddo de la faseta de aprendizaje de Data Scientist | Data & Analytics**
+**Apreniendo bnuevas habilidades en mi camino para ser Data Scientist | Data & Analytics**
 
 </ctr>
 
